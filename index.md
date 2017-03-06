@@ -1,14 +1,14 @@
 ## Privacy Policy for all applications developed by SpaceTecDev
 
-We collect only data that can help us understand the usage of our app, help us to improve it and display ads.
+* We collect only data that can help us understand the usage of our app, help us to improve it and display ads.
 
-We do not send any personal data including phone numbers, contacts etc..
+* We do not send any personal data including phone numbers, contacts etc..
 
-We do not store any user data on our servers.
+* We do not store any user data on our servers.
 
-We do not send personal idificating data
+* We do not send personal idificating data
 
-We use this services to collect the app data: Google analytics, Crashalytics, Firebase.
+* We use this services to collect the app data: Google analytics, Crashalytics, Firebase.
 
 
 
