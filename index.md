@@ -1,34 +1,16 @@
-## Welcome to GitHub Pages
+## Privacy Policy for all applications developed by SpaceTecDev
 
-You can use the [editor on GitHub](https://github.com/spacetecdev/PrivacyPilicy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We collect only data that can help us understand the usage of our app, help us to improve it and display ads.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We do not send any personal data including phone numbers, contacts etc..
 
-### Markdown
+We do not store any user data on our servers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do not send personal idificating data
 
-```markdown
-Syntax highlighted code block
+We use this services to collect the app data: Google analytics, Crashalytics, Firebase.
 
-# Header 1
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/spacetecdev/PrivacyPilicy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
